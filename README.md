@@ -1,6 +1,6 @@
 # DEMO
 
-本项目所用到的技术栈：
+## 本项目所用到的技术栈：
  后端：totaljs, textDB
  前端：nuxt, vue, element ui
 
