@@ -1,0 +1,7 @@
+name                        : Matrix Server
+secret_uid                  : matrix
+environment                 : prod
+server_name                   : [Matrix Server Prod]
+default_request_timeout     : 300000
+cookie				(generate)	: 10
+cookie_secret       (generate)  : 10

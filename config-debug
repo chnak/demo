@@ -1,0 +1,7 @@
+name                        : Matrix Server
+secret_uid                  : chnak
+environment                 : dev
+server_name                   : [Matrix Server Dev]
+default_request_timeout     : 300000
+cookie				(generate)	: 10
+cookie_secret       (generate)  : 10

@@ -1,0 +1,13 @@
+__pycache__/
+config.py
+tmp/
+node_modules/
+logs/
+*.pid
+index.js.json
+index.js.overload
+public/js/dist/
+databases/
+public/download/*
+nuxt/.nuxt/*
+nuxt/nuxt/*
