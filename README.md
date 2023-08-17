@@ -7,7 +7,7 @@
 ## install
 
 ```shell
-git clone git@github.com:chnak/demo.git
+git clone https://github.com/chnak/demo.git
 cd demo
 npm install
 ```
